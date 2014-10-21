@@ -1,1 +1,1 @@
-puts "A" + "B"
+puts "Bob" + "Smith"
